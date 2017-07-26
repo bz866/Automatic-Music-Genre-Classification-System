@@ -1,2 +1,2 @@
-# Automatic-Music-Genre-Classification-System
-NYU Machine Learning Course Term Project
+# DS1003_MLProject
+Machine Learning Term Project
